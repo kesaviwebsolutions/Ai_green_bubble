@@ -1,8 +1,14 @@
+@font-face {
+    font-family: "mont";
+    src: url("../Montserrat/static/Montserrat-Regular.ttf");
+}
+
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    // font-family: "Poppins-Medium" !important;
+    font-family: "mont" !important;
 
     ul {
         margin: 0 !important;
@@ -52,13 +58,13 @@ html {
 
 @media screen and (max-width: 1920px) {
     html {
-        font-size: 0.85vw !important;
+        font-size: 1.20vw !important;
     }
 }
 
 @media screen and (max-width: 1440px) {
     html {
-        font-size: 1.0vw !important;
+        font-size: 1.2vw !important;
     }
 }
 
@@ -84,13 +90,13 @@ html {
 
 
 .container-kws {
-    width: 70% !important;
+    width: 85% !important;
     margin: auto !important;
 }
 
 @media screen and (max-width: 1800px) {
     .container-kws {
-        width: 80% !important;
+        width: 90% !important;
         margin: auto !important;
     }
 }
@@ -1243,7 +1249,7 @@ html {
     width: 11rem !important;
 }
 
-.h-a{
+.h-a {
     height: auto !important;
 }
 

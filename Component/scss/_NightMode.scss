@@ -8,6 +8,8 @@
 .light-theme {
     --background-color: white;
     --color: rgb(18, 18, 18);
+
+
 }
 
 html,
@@ -22,4 +24,16 @@ svg ,.dropdown-menu.show{
     color: var(--color) !important;
     fill: var(--color) !important;
     border-color: var(--color) !important;
+}
+
+.g_c{
+    color: #D0A543 !important;
+}
+
+.bg_b{
+    background-color: black !important;
+}
+
+.bg_gray{
+    background-color: rgb(248, 248, 248) !important;
 }
