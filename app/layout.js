@@ -2,6 +2,10 @@ import { Inter } from "next/font/google";
 import "../Component/scss/Main.scss";
 import "bootstrap/dist/css/bootstrap.min.css";
 
+import Navbar from "../component/pages/Navbar";
+
+import Footer from "../Component/pages/Footer";
+
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
@@ -13,7 +17,11 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className="">
-        <div className="min-h-90vh">{children}</div>
+        <Navbar />
+        <div className="min-h-90vh">
+        {children}
+        </div>
+        <Footer />
       </body>
     </html>
   );
