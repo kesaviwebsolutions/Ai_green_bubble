@@ -10,6 +10,8 @@ import { AiOutlineMenu } from "react-icons/ai";
 import Image from "next/image";
 import Modal from "react-bootstrap/Modal";
 import "animate.css";
+import Navbarsd from "./Navbarsd";
+
 
 function Navbar() {
   const [show, setShow] = useState(false);
@@ -50,14 +52,9 @@ function Navbar() {
     <>
       <div className="  navbar12 container-kws d-f a-i-c j-c-s-b p-y-1">
         <div className="">
-          <Image src="/LOGO.png" width="100" height="100" alt="" className="" />
+          <Image src="/LOGO.png" width="100" height="100" alt="" className="w-2_5" />
         </div>
-        <div className="d-f a-i-c ">
-          <div className="">Home</div>
-          <div className="m-l-1">About</div>
-          <div className="m-l-1">Service</div>
-          <div className="m-l-1">Contact</div>
-        </div>
+       <Navbarsd />
         <div className=""></div>
       </div>
 

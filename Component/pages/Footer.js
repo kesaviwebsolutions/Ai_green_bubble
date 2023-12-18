@@ -7,7 +7,7 @@ function Footer() {
         <div className=" container-kws  c-w p-y-2">
           <div className="d-f j-c-s-b flex-wrap">
             <div className="m-b-2">
-              <img src="/LOGO.png" className="w-9" alt="" />
+              <img src="/LOGO.png" className="w-3" alt="" />
             </div>
             <div className="m-b-2 d-f a-i-c flex-wrap">
               <div className="m-b-1 ">Home</div>
