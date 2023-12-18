@@ -13,7 +13,7 @@ export const metadata = {
   description: "Ai Green Bubble  we are at the forefront of revolutionary business operations driving the evolution of blockchain technology Web3 solutions and Islamic Fintech decentralized applications",
   openGraph: {
     images: [
-      "https://bafkreie7qpgrnsgl2dqfxliab3326p2ztdxq56rus4d7ksfczw7q3qh7am.ipfs.nftstorage.link/",
+      "https://bafybeifjskb7y66xamk47ewaal2acosamifyjx46ljbytgysefhumzj3wm.ipfs.nftstorage.link/",
     ],
   },
 };
