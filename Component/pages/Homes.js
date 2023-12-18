@@ -113,7 +113,9 @@ function Home() {
             </div>
           </div>
         </div>
-        <div className="section">
+      </div>
+      <div className="bg_gray   p-y-3">
+        <div className="container-kws">
           <div className="f-s-2 f-w-600 t-a-c g_c m-b-2">Get in Touch</div>
           <div className="m-b-1 t-a-c">
             Join us on this exciting journey of innovation! Whether you are a
