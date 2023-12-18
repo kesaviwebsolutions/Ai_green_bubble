@@ -2,7 +2,6 @@
 
 import React from "react";
 
-
 function Home() {
   return (
     <>
@@ -53,46 +52,63 @@ function Home() {
               <div className="f-s-2 g_c f-w-600 m-b-2">
                 Cutting-Edge Technologies
               </div>
-              <div className="m-b-1 f-s-1_25 f-w-600">
-                Digital Wallet Solutions
+              <div className="d-f  g-1">
+                <img src="/tick.png" alt="" className="w-3 h-2" />
+                <div className="">
+                  <div className="m-b-1 f-s-1_25 f-w-600">
+                    Digital Wallet Solutions
+                  </div>
+                  <div className="m-b-2">
+                    {" "}
+                    Central to our mission is the development of cutting-edge
+                    digital wallet solutions. We incorporate advanced biometrics
+                    and secure multiparty computation (MPC) protocols to ensure
+                    the highest level of security and functionality. Our focus
+                    extends beyond the broader digital market, with a dedication
+                    to delivering comprehensive and Shariah-compliant solutions
+                    in the Islamic Fintech sector.
+                  </div>
+                </div>
               </div>
-              <div className="m-b-2">
-                {" "}
-                Central to our mission is the development of cutting-edge
-                digital wallet solutions. We incorporate advanced biometrics and
-                secure multiparty computation (MPC) protocols to ensure the
-                highest level of security and functionality. Our focus extends
-                beyond the broader digital market, with a dedication to
-                delivering comprehensive and Shariah-compliant solutions in the
-                Islamic Fintech sector.
+              <div className="d-f  g-1">
+                <img src="/tick.png" alt="" className="w-3 h-2" />
+                <div className="">
+                  <div className="m-b-1 f-s-1_25 f-w-600">
+                    Seamless Integration for Optimal Functionality
+                  </div>
+
+                  <div className="m-b-2">
+                    {" "}
+                    We go beyond conventional solutions. Our approach is
+                    holistic, aiming to empower our clients with systems that
+                    are not only secure, transparent, and efficient but also
+                    inherently Shariah-compliant. By embracing decentralization,
+                    we redefine how businesses operate, offering bespoke
+                    blockchain solutions, smart contracts, and Islamic Fintech
+                    decentralized applications (dApps). This allows for seamless
+                    integration into existing frameworks, ensuring a smooth
+                    transition to a more advanced and compliant digital
+                    landscape.
+                  </div>
+                </div>
               </div>
-              <div className="m-b-1 f-s-1_25 f-w-600">
-                Seamless Integration for Optimal Functionality
-              </div>
-              <div className="m-b-2">
-                {" "}
-                We go beyond conventional solutions. Our approach is holistic,
-                aiming to empower our clients with systems that are not only
-                secure, transparent, and efficient but also inherently
-                Shariah-compliant. By embracing decentralization, we redefine
-                how businesses operate, offering bespoke blockchain solutions,
-                smart contracts, and Islamic Fintech decentralized applications
-                (dApps). This allows for seamless integration into existing
-                frameworks, ensuring a smooth transition to a more advanced and
-                compliant digital landscape.
-              </div>
-              <div className="m-b-1 f-s-1_25 f-w-600">
-                Strategic Partnerships and Continuous Innovation
-              </div>
-              <div className="m-b-2">
-                {" "}
-                To achieve our goals, we actively pursue strategic partnerships,
-                engage in continuous research, and maintain a steadfast
-                commitment to staying at the forefront of technological
-                advancements. Our dual objective is clear: to meet the evolving
-                needs of our clients and to contribute significantly to
-                positioning Malaysia as a digital powerhouse in the global
-                landscape.
+              <div className="d-f  g-1">
+                <img src="/tick.png" alt="" className="w-3 h-2" />
+                <div className="">
+                  <div className="m-b-1 f-s-1_25 f-w-600">
+                    Strategic Partnerships and Continuous Innovation
+                  </div>
+                  <div className="m-b-2">
+                    {" "}
+                    To achieve our goals, we actively pursue strategic
+                    partnerships, engage in continuous research, and maintain a
+                    steadfast commitment to staying at the forefront of
+                    technological advancements. Our dual objective is clear: to
+                    meet the evolving needs of our clients and to contribute
+                    significantly to positioning Malaysia as a digital
+                    powerhouse in the global landscape.
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -106,7 +122,9 @@ function Home() {
             Contact us today to explore how our pioneering solutions can shape
             the future of your digital endeavors.
           </div>
-          <div className="t-a-c">Contact Ai Green Bubble | Explore Our Innovations</div>
+          <div className="t-a-c">
+            Contact Ai Green Bubble | Explore Our Innovations
+          </div>
         </div>
       </div>
     </>

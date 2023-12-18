@@ -21,67 +21,94 @@ function Service() {
           </div>
           <div className="d-f g-2 j-c-s-e flex-wrap">
             <div className="w-30">
-              <div className="f-s-1_25 f-w-600 m-b-1">
-                Islamic Fintech Solutions
-              </div>
-              <div className="">
-                In our pursuit of excellence in Islamic Fintech, we extend our
-                support to established sectors and target the underserved
-                Islamic market. AIGB's offerings cover a wide range of sectors
-                within Islamic Fintech, including insurance tech, lending,
-                payments, wealth tech, challenger banks, and trading tech,
-                addressing the unique needs of the Islamic market throughout the
-                growth lifecycle.
-              </div>
-            </div>
-            <div className="w-30">
-              <div className="f-s-1_25 f-w-600 m-b-1">
-                Blockchain/Web3 Solutions:
-              </div>
-              <div className="">
-                AIGB specializes in developing and maintaining Ethereum Virtual
-                Machine (EVM) Blockchains, blockchain explorers, and DeFi Apps
-                using smart contracts in Solidity on EVM chains. We actively
-                support Web2 to Web3 migration, positioning ourselves as leaders
-                in facilitating the transition to decentralized technologies.
+              <div className="d-f  g-1">
+                <img src="/tick.png" alt="" className="w-3 h-2" />
+                <div className="">
+                  <div className="f-s-1_25 f-w-600 m-b-1">
+                    Islamic Fintech Solutions
+                  </div>
+                  <div className="">
+                    In our pursuit of excellence in Islamic Fintech, we extend
+                    our support to established sectors and target the
+                    underserved Islamic market. AIGB's offerings cover a wide
+                    range of sectors within Islamic Fintech, including insurance
+                    tech, lending, payments, wealth tech, challenger banks, and
+                    trading tech, addressing the unique needs of the Islamic
+                    market throughout the growth lifecycle.
+                  </div>
+                </div>
               </div>
             </div>
             <div className="w-30">
-              <div className="f-s-1_25 f-w-600 m-b-1">
-                Artificial Intelligence (Al-Muttaqin) Initiatives
-              </div>
-              <div className="">
-                Under our AI initiatives, our cutting-edge algorithms strictly
-                adhere to Maqasid Al Shariah-based principles for digital
-                assets. This commitment extends to the underserved Islamic
-                market, aligning our AI solutions with Shariah-compliant
-                practices.
-              </div>
-            </div>
-            <div className="w-30">
-              <div className="f-s-1_25 f-w-600 m-b-1">
-                Strategic Technology Investments
-              </div>
-              <div className="">
-                Our strategic technology investments focus on companies offering
-                competitive advantages and unique blockchain technologies.
-                Through leading research, we actively explore investment
-                opportunities that contribute to our competitiveness and offer
-                passive income streams, enhancing our financial sustainability.
+              <div className="d-f  g-1">
+                <img src="/tick.png" alt="" className="w-3 h-2" />
+                <div className="">
+                  <div className="f-s-1_25 f-w-600 m-b-1">
+                    Blockchain/Web3 Solutions:
+                  </div>
+                  <div className="">
+                    AIGB specializes in developing and maintaining Ethereum
+                    Virtual Machine (EVM) Blockchains, blockchain explorers, and
+                    DeFi Apps using smart contracts in Solidity on EVM chains.
+                    We actively support Web2 to Web3 migration, positioning
+                    ourselves as leaders in facilitating the transition to
+                    decentralized technologies.
+                  </div>
+                </div>
               </div>
             </div>
             <div className="w-30">
-              <div className="f-s-1_25 f-w-600 m-b-1">
-                Non-Custodial Digital Wallets:
+              <div className="d-f  g-1">
+                <img src="/tick.png" alt="" className="w-3 h-2" />
+                <div className="">
+                  <div className="f-s-1_25 f-w-600 m-b-1">
+                    Artificial Intelligence (Al-Muttaqin) Initiatives
+                  </div>
+                  <div className="">
+                    Under our AI initiatives, our cutting-edge algorithms
+                    strictly adhere to Maqasid Al Shariah-based principles for
+                    digital assets. This commitment extends to the underserved
+                    Islamic market, aligning our AI solutions with
+                    Shariah-compliant practices.
+                  </div>
+                </div>
               </div>
-              <div className="">
-                AIGB leads in the development of non-custodial digital wallets,
-                featuring MPC-based wallet generation and recovery mechanisms,
-                providing a distinct benefit by eliminating the need for a seed
-                phase. Our commitment to cutting-edge solutions addresses the
-                specific needs of the underserved Islamic market, showcasing our
-                dedication to inclusivity and technological advancement in the
-                Islamic Fintech landscape.{" "}
+            </div>
+            <div className="w-30">
+              <div className="d-f  g-1">
+                <img src="/tick.png" alt="" className="w-3 h-2" />
+                <div className="">
+                  <div className="f-s-1_25 f-w-600 m-b-1">
+                    Strategic Technology Investments
+                  </div>
+                  <div className="">
+                    Our strategic technology investments focus on companies
+                    offering competitive advantages and unique blockchain
+                    technologies. Through leading research, we actively explore
+                    investment opportunities that contribute to our
+                    competitiveness and offer passive income streams, enhancing
+                    our financial sustainability.
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="w-30">
+              <div className="d-f  g-1">
+                <img src="/tick.png" alt="" className="w-3 h-2" />
+                <div className="">
+                  <div className="f-s-1_25 f-w-600 m-b-1">
+                    Non-Custodial Digital Wallets:
+                  </div>
+                  <div className="">
+                    AIGB leads in the development of non-custodial digital
+                    wallets, featuring MPC-based wallet generation and recovery
+                    mechanisms, providing a distinct benefit by eliminating the
+                    need for a seed phase. Our commitment to cutting-edge
+                    solutions addresses the specific needs of the underserved
+                    Islamic market, showcasing our dedication to inclusivity and
+                    technological advancement in the Islamic Fintech landscape.{" "}
+                  </div>
+                </div>
               </div>
             </div>
           </div>
@@ -93,61 +120,83 @@ function Service() {
           </div>
           <div className="d-f g-2 j-c-s-e flex-wrap">
             <div className="w-30">
-              <div className="f-s-1_25 f-w-600 m-b-1">
-                Grounded in Blockchain and Web3
-              </div>
-              <div className="">
-                At Ai Green Bubble, our business strategy is firmly grounded in
-                the principles of blockchain and Web3 technologies. We are
-                dedicated to developing cutting-edge solutions specifically
-                tailored for companies, financial institutions, and government
-                organizations. Our aim is to revolutionize traditional business
-                processes by leveraging the transformative potential of
-                decentralized technologies.
-              </div>
-            </div>
-            <div className="w-30">
-              <div className="f-s-1_25 f-w-600 m-b-1">
-                Empowering Clients with Shariah-Compliant Solutions
-              </div>
-              <div className="">
-                We go beyond conventional solutions. Our approach is holistic,
-                aiming to empower our clients with systems that are not only
-                secure, transparent, and efficient but also inherently
-                Shariah-compliant. By embracing decentralization, we redefine
-                how businesses operate, offering bespoke blockchain solutions,
-                smart contracts, and Islamic Fintech decentralized applications
-                (dApps). This allows for seamless integration into existing
-                frameworks, ensuring a smooth transition to a more advanced and
-                compliant digital landscape.{" "}
+              <div className="d-f  g-1">
+                <img src="/tick.png" alt="" className="w-3 h-2" />
+                <div className="">
+                  <div className="f-s-1_25 f-w-600 m-b-1">
+                    Grounded in Blockchain and Web3
+                  </div>
+                  <div className="">
+                    At Ai Green Bubble, our business strategy is firmly grounded
+                    in the principles of blockchain and Web3 technologies. We
+                    are dedicated to developing cutting-edge solutions
+                    specifically tailored for companies, financial institutions,
+                    and government organizations. Our aim is to revolutionize
+                    traditional business processes by leveraging the
+                    transformative potential of decentralized technologies.
+                  </div>
+                </div>
               </div>
             </div>
             <div className="w-30">
-              <div className="f-s-1_25 f-w-600 m-b-1">
-                Strategic Partnerships and Continuous Innovation{" "}
-              </div>
-              <div className="">
-                To achieve our goals, we actively pursue strategic partnerships,
-                engage in continuous research, and maintain a steadfast
-                commitment to staying at the forefront of technological
-                advancements. Our dual objective is clear: to meet the evolving
-                needs of our clients and to contribute significantly to
-                positioning Malaysia as a digital powerhouse in the global
-                landscape.
+              <div className="d-f  g-1">
+                <img src="/tick.png" alt="" className="w-3 h-2" />
+                <div className="">
+                  <div className="f-s-1_25 f-w-600 m-b-1">
+                    Empowering Clients with Shariah-Compliant Solutions
+                  </div>
+                  <div className="">
+                    We go beyond conventional solutions. Our approach is
+                    holistic, aiming to empower our clients with systems that
+                    are not only secure, transparent, and efficient but also
+                    inherently Shariah-compliant. By embracing decentralization,
+                    we redefine how businesses operate, offering bespoke
+                    blockchain solutions, smart contracts, and Islamic Fintech
+                    decentralized applications (dApps). This allows for seamless
+                    integration into existing frameworks, ensuring a smooth
+                    transition to a more advanced and compliant digital
+                    landscape.{" "}
+                  </div>
+                </div>
               </div>
             </div>
             <div className="w-30">
-              <div className="f-s-1_25 f-w-600 m-b-1">
-                Showcasing Excellence in Islamic Fintech Internationally
+              <div className="d-f  g-1">
+                <img src="/tick.png" alt="" className="w-3 h-2" />
+                <div className="">
+                  <div className="f-s-1_25 f-w-600 m-b-1">
+                    Strategic Partnerships and Continuous Innovation{" "}
+                  </div>
+                  <div className="">
+                    To achieve our goals, we actively pursue strategic
+                    partnerships, engage in continuous research, and maintain a
+                    steadfast commitment to staying at the forefront of
+                    technological advancements. Our dual objective is clear: to
+                    meet the evolving needs of our clients and to contribute
+                    significantly to positioning Malaysia as a digital
+                    powerhouse in the global landscape.
+                  </div>
+                </div>
               </div>
-              <div className="">
-                Beyond national borders, Ai Green Bubble is dedicated to
-                showcasing the excellence of Islamic Fintech on the
-                international stage. We believe that by pushing the boundaries
-                of innovation, fostering global partnerships, and adhering to
-                the highest standards of Shariah compliance, we contribute not
-                only to our clients' success but also to elevating Malaysia's
-                stature as a leader in the digital realm.
+            </div>
+            <div className="w-30">
+              <div className="d-f  g-1">
+                <img src="/tick.png" alt="" className="w-3 h-2" />
+                <div className="">
+                  <div className="f-s-1_25 f-w-600 m-b-1">
+                    Showcasing Excellence in Islamic Fintech Internationally
+                  </div>
+                  <div className="">
+                    Beyond national borders, Ai Green Bubble is dedicated to
+                    showcasing the excellence of Islamic Fintech on the
+                    international stage. We believe that by pushing the
+                    boundaries of innovation, fostering global partnerships, and
+                    adhering to the highest standards of Shariah compliance, we
+                    contribute not only to our clients' success but also to
+                    elevating Malaysia's stature as a leader in the digital
+                    realm.
+                  </div>
+                </div>
               </div>
             </div>
           </div>

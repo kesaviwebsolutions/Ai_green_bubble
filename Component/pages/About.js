@@ -55,53 +55,76 @@ function About() {
           </div>
           <div className="d-f g-2 j-c-s-e flex-wrap">
             <div className="w-30">
-              <div className="f-s-1_25 f-w-600 m-b-1">
-                Continuous Improvement and Customer-Centric Approach
-              </div>
-              <div className="">
-                At AIGB, our unwavering commitment to excellence is reflected in
-                our continuous reengineering process and extensive market
-                research. We prioritize delivering the best user experience
-                through a customer-centric approach, adapting our solutions to
-                meet evolving needs and expectations.
-              </div>
-            </div>
-            <div className="w-30">
-              <div className="f-s-1_25 f-w-600 m-b-1">
-                Innovations in Blockchain
-              </div>
-              <div className="">
-                Building on our accumulated experience and knowledge, AIGB has
-                pioneered the development of a cutting-edge Shariah-compliant
-                blockchain named "MaalChain." This groundbreaking innovation
-                includes the MaalScan.io blockchain explorer and the "Concept of
-                Identity" wallet—a Non-Custodial wallet securing digital assets
-                through facial recognition technology.
+              <div className="d-f  g-1">
+                <img src="/tick.png" alt="" className="w-3 h-2" />
+                <div className="">
+                  <div className="f-s-1_25 f-w-600 m-b-1">
+                    Continuous Improvement and Customer-Centric Approach
+                  </div>
+                  <div className="">
+                    At AIGB, our unwavering commitment to excellence is
+                    reflected in our continuous reengineering process and
+                    extensive market research. We prioritize delivering the best
+                    user experience through a customer-centric approach,
+                    adapting our solutions to meet evolving needs and
+                    expectations.
+                  </div>
+                </div>
               </div>
             </div>
             <div className="w-30">
-              <div className="f-s-1_25 f-w-600 m-b-1">
-                Advancing Security and Efficiency
-              </div>
-              <div className="">
-                Additionally, we have developed various Shariah-compliant
-                decentralized applications or "dApps," marking a significant
-                step forward in the secure management of personal information
-                and assets using blockchain technology. This solidifies our
-                commitment to innovation and excellence, propelling us forward
-                as we explore new frontiers in blockchain and AI technology.
+              <div className="d-f  g-1">
+                <img src="/tick.png" alt="" className="w-3 h-2" />
+                <div className="">
+                  <div className="f-s-1_25 f-w-600 m-b-1">
+                    Innovations in Blockchain
+                  </div>
+                  <div className="">
+                    Building on our accumulated experience and knowledge, AIGB
+                    has pioneered the development of a cutting-edge
+                    Shariah-compliant blockchain named "MaalChain." This
+                    groundbreaking innovation includes the MaalScan.io
+                    blockchain explorer and the "Concept of Identity" wallet—a
+                    Non-Custodial wallet securing digital assets through facial
+                    recognition technology.
+                  </div>
+                </div>
               </div>
             </div>
             <div className="w-30">
-              <div className="f-s-1_25 f-w-600 m-b-1">
-                A Leader in Blockchain and AI Evolution
+              <div className="d-f  g-1">
+                <img src="/tick.png" alt="" className="w-3 h-2" />
+                <div className="">
+                  <div className="f-s-1_25 f-w-600 m-b-1">
+                    Advancing Security and Efficiency
+                  </div>
+                  <div className="">
+                    Additionally, we have developed various Shariah-compliant
+                    decentralized applications or "dApps," marking a significant
+                    step forward in the secure management of personal
+                    information and assets using blockchain technology. This
+                    solidifies our commitment to innovation and excellence,
+                    propelling us forward as we explore new frontiers in
+                    blockchain and AI technology.
+                  </div>
+                </div>
               </div>
-              <div className="">
-                Our dedication to ensuring a secure and efficient digital
-                landscape for all remains unwavering. AIGB is committed to being
-                a leader in the evolution of blockchain and AI, continuously
-                exploring new horizons to redefine the future of digital
-                interactions.
+            </div>
+            <div className="w-30">
+              <div className="d-f  g-1">
+                <img src="/tick.png" alt="" className="w-3 h-2" />
+                <div className="">
+                  <div className="f-s-1_25 f-w-600 m-b-1">
+                    A Leader in Blockchain and AI Evolution
+                  </div>
+                  <div className="">
+                    Our dedication to ensuring a secure and efficient digital
+                    landscape for all remains unwavering. AIGB is committed to
+                    being a leader in the evolution of blockchain and AI,
+                    continuously exploring new horizons to redefine the future
+                    of digital interactions.
+                  </div>
+                </div>
               </div>
             </div>
           </div>
