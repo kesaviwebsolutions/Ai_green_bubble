@@ -1,4 +1,7 @@
+"use client";
+
 import React from "react";
+import Navbarsd from "./Navbarsd";
 
 function Footer() {
   return (
@@ -9,12 +12,7 @@ function Footer() {
             <div className="m-b-2">
               <img src="/LOGO.png" className="w-3" alt="" />
             </div>
-            <div className="m-b-2 d-f a-i-c flex-wrap">
-              <div className="m-b-1 ">Home</div>
-              <div className="m-b-1 m-l-2">About Us</div>
-              <div className="m-b-1 m-l-2">Service</div>
-              <div className="m-b-1 m-l-2">Contract</div>
-            </div>
+            <Navbarsd />
             <div className=""></div>
           </div>
           <div className="t-a-c m-b-2">
