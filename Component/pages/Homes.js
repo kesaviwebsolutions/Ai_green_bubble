@@ -32,7 +32,7 @@ function Home() {
           </div>
         </div>
         <div className="section">
-          <div className="f-s-2 f-w-800 g_c t-a-c m-b-2">
+          <div className="f-s-2  f-w-800 g_c t-a-c m-b-2">
             Our Past Developments{" "}
           </div>
           <div className="d-f a-i-c j-c-c flex-wrap g-2">
@@ -40,8 +40,8 @@ function Home() {
             <img src="/MAALSCAN LOGO-01.png" alt="" className="w-9" />
             <img src="/RamzMarketCap LOGO-01.png" alt="" className="w-11" />
             <img src="/R LOGO BLACK-04.png" alt="" className="w-3" />
-            <img src="/logo pansea.png" alt="" className="w-9" />
-            <img src="/GCEX LOGO.png" alt="" className="w-9" />
+            <img src="/logo pansea.png" alt="" className="w-7" />
+            <img src="/GCEX LOGO.png" alt="" className="w-6" />
           </div>
         </div>
         <div className="section">
