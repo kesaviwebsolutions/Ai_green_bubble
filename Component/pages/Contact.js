@@ -17,7 +17,16 @@ function Contact() {
             </div>
             <br />
             <div>
-              <img src="https://bafybeigjvv5qnhp2iccsvnqpb4xf7cjfsfmony35fq4hwcquhbldaacnm4.ipfs.dweb.link/" />
+              <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3983.780025457239!2d101.70947747464868!3d3.15263009682277!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31cc37d49996dfa7%3A0xce2572dd60fef422!2sWisma%20UOA%20Centre%20KLCC!5e0!3m2!1sen!2sin!4v1702961588126!5m2!1sen!2sin"
+                width="600"
+                height="450"
+                className="w-100"
+                // style="border:0;"
+                allowfullscreen=""
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+              ></iframe>{" "}
             </div>
           </div>
           <div className="m-y-3">

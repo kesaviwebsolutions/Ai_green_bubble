@@ -4,7 +4,7 @@ function About() {
   return (
     <div>
       <div className="container-kws">
-        <div className="f-s-2 f-w-600 t-a-c g_c m-t-2">Our Journey</div>
+        <div className="f-s-2 f-w-600 t-a-c g_c ">Our Journey</div>
         <div className="t-a-c">
           <img src="/Pic3.png" className="" alt="" />
         </div>
