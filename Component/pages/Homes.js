@@ -26,7 +26,7 @@ function Home() {
               </div>
             </div>
             <div className="">
-              <img src="/pic1.jpg" className="w-30" alt="" />
+              <img src="/Pic1.jpg" className="w-30" alt="" />
             </div>
           </div>
         </div>
@@ -45,7 +45,7 @@ function Home() {
             </a>
             <a href="https://ramzmarketcap.com/" target="_blank">
               {" "}
-              <img src="/RamzMarketCap LOGO-01.png" alt="" className="w-11" />
+              <img src="/RamzMarketCap Logo-01.png" alt="" className="w-11" />
             </a>
             <a href="https://www.app.ramzswap.com/" target="_blank">
               {" "}
@@ -64,7 +64,7 @@ function Home() {
         <div className="section">
           <div className="d-f j-c-s-b flex-wrap">
             <div className="w-30">
-              <img src="/pic2.jpg" alt="" />
+              <img src="/Pic2.jpg" alt="" />
             </div>
             <div className="max-w-35">
               <div className="f-s-2 g_c f-w-600 m-b-2">
