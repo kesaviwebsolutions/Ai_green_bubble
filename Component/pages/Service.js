@@ -4,7 +4,9 @@ function Service() {
   return (
     <div>
       <div className="container-kws">
-        <div className="m-y-2 t-a-c f-s-2 f-w-600 g_c">Our Services</div>
+        <div className="m-y-2 t-a-c f-s-2 f-w-600 g_c">
+          Our Services
+        </div>
         <div className="">
           <img src="/Pic3.png" alt="" />
         </div>
@@ -17,7 +19,7 @@ function Service() {
         </div>
         <div className="section">
           <div className="f-s-2 f-w-600 t-a-c g_c m-b-3">
-            Products and Services
+          Innovation Capital Hub
           </div>
           <div className="d-f g-2 j-c-s-e flex-wrap">
             <div className="w-30">
@@ -114,9 +116,7 @@ function Service() {
               <div className="d-f  g-1">
                 <img src="/tick.png" alt="" className="w-3 h-2" />
                 <div className="">
-                  <div className="f-s-1_25 f-w-600 m-b-1">
-                    Artificial Intelligence (Al-Muttaqin) Initiatives
-                  </div>
+                  <div className="f-s-1_25 f-w-600 m-b-1">Ai Solutions</div>
                   <div className="">
                     Under our AI initiatives, our cutting-edge algorithms
                     strictly adhere to Maqasid Al Shariah-based principles for
