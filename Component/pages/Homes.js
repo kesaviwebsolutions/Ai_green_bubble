@@ -35,12 +35,30 @@ function Home() {
             Our Past Developments{" "}
           </div>
           <div className="d-f a-i-c j-c-c flex-wrap g-2">
-            <img src="/MAAL LOGO-02.png" alt="" className="w-9" />
-            <img src="/MAALSCAN LOGO-01.png" alt="" className="w-9" />
-            <img src="/RamzMarketCap LOGO-01.png" alt="" className="w-11" />
-            <img src="/R LOGO BLACK-04.png" alt="" className="w-3" />
-            <img src="/logo pansea.png" alt="" className="w-7" />
-            <img src="/GCEX LOGO.png" alt="" className="w-6" />
+            <a href="https://www.maalchain.com/" target="_blank">
+              {" "}
+              <img src="/MAAL LOGO-02.png" alt="" className="w-9" />
+            </a>
+            <a href="https://maalscan.io/" target="_blank">
+              {" "}
+              <img src="/MAALSCAN LOGO-01.png" alt="" className="w-9" />
+            </a>
+            <a href="https://ramzmarketcap.com/" target="_blank">
+              {" "}
+              <img src="/RamzMarketCap LOGO-01.png" alt="" className="w-11" />
+            </a>
+            <a href="https://www.app.ramzswap.com/" target="_blank">
+              {" "}
+              <img src="/R LOGO BLACK-04.png" alt="" className="w-3" />
+            </a>
+            <a href="https://pansea.io/" target="_blank">
+              {" "}
+              <img src="/logo pansea.png" alt="" className="w-7" />
+            </a>
+            <a href="https://www.gcex.lt/" target="_blank">
+              {" "}
+              <img src="/GCEX LOGO.png" alt="" className="w-6" />
+            </a>
           </div>
         </div>
         <div className="section">
