@@ -16,7 +16,7 @@ function Footer() {
             <div className=""></div>
           </div>
           <div className="t-a-c m-b-2">
-            Copyright 2023 MaalChain. All Rights Reserved.
+            &copy; 2023 Ai Green Bubble | All Rights Reserved.
           </div>
         </div>
       </div>
