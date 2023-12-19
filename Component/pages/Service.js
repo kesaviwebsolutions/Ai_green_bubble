@@ -4,7 +4,7 @@ function Service() {
   return (
     <div>
       <div className="container-kws">
-        <div className="m-y-2 t-a-c f-s-2 f-w-600 g_c">Our Service</div>
+        <div className="m-y-2 t-a-c f-s-2 f-w-600 g_c">Our Services</div>
         <div className="">
           <img src="/Pic3.png" alt="" />
         </div>

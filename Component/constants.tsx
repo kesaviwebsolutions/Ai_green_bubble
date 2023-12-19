@@ -10,7 +10,7 @@ export const SIDENAV_ITEMS: SideNavItem[] = [
     path: "/about",
   },
   {
-    title: "Service",
+    title: "Services",
     path: "/service",
   },
   {
