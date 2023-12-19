@@ -254,7 +254,7 @@ function Service() {
             </div>
           </div>
           <div className="section">
-            <div className="f-s-2 f-w-600 t-a-c g_c m-b-3">Our Client</div>
+            <div className="f-s-2 f-w-600 t-a-c g_c m-b-3">Our ClientS</div>
             <div className="d-f j-c-c g-2 flex-wrap">
               <div className="f-s-1_25 f-w-600"> Royal Bank Pacific</div>
               <div className="f-s-1_25 f-w-600"> RBP Finivis</div>
