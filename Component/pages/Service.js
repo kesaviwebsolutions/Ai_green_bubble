@@ -44,6 +44,59 @@ function Service() {
                 <img src="/tick.png" alt="" className="w-3 h-2" />
                 <div className="">
                   <div className="f-s-1_25 f-w-600 m-b-1">
+                    Decentralized Application Development (dApps)
+                  </div>
+                  <div className="">
+                    Our expert team crafts secure solutions using blockchain,
+                    ensuring transparency and efficiency. Benefit from smart
+                    contract expertise, cross-platform functionality, and
+                    industry-specific solutions. Our dApp development services
+                    cater to a wide range of industries, including finance,
+                    healthcare, supply chain, gaming, and more.
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="w-30">
+              <div className="d-f  g-1">
+                <img src="/tick.png" alt="" className="w-3 h-2" />
+                <div className="">
+                  <div className="f-s-1_25 f-w-600 m-b-1">
+                    Blockchain Technology Consultancy
+                  </div>
+                  <div className="">
+                    ur experienced team provides tailored guidance in harnessing
+                    blockchain's transformative power. Whether you're a startup
+                    exploring blockchain integration or an established
+                    enterprise seeking optimization, trust AIGB to provide
+                    strategic insights, implementation support, and
+                    comprehensive solutions.
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="w-30">
+              <div className="d-f  g-1">
+                <img src="/tick.png" alt="" className="w-3 h-2" />
+                <div className="">
+                  <div className="f-s-1_25 f-w-600 m-b-1">
+                    Metaverse Development
+                  </div>
+                  <div className="">
+                    We specialize in crafting immersive virtual experiences
+                    using VR, AR, blockchain, and AI. Collaborate with us to
+                    design seamless metaverse environments for socializing,
+                    gaming, commerce, and education. Benefit from blockchain
+                    security and AI-driven interactions.
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="w-30">
+              <div className="d-f  g-1">
+                <img src="/tick.png" alt="" className="w-3 h-2" />
+                <div className="">
+                  <div className="f-s-1_25 f-w-600 m-b-1">
                     Blockchain/Web3 Solutions:
                   </div>
                   <div className="">
